@@ -1,0 +1,17 @@
+
+  .cellSelf {
+    border: 2px solid var(--member-color);
+  }
+  
+  .cellMembers {
+    border: 2px solid var(--cell-member-color);
+  }
+  
+  .rest {
+    background-color: white;
+  }
+  
+  .rest:hover {
+    border-color: rgb(173, 182, 194);
+  }
+  
