@@ -50,8 +50,8 @@ UPSTASH_TOKEN= Redis Rest Token from upstash
 
 
 ## Installation
-1. add the env file in **backend/.env** and **frontend/.env**. Examples keys are provided
-2. Note: once 
+Add the env file in **backend/.env** and **frontend/.env**. Examples keys are provided
+
 ```shell
 git clone https://github.com/godwinpinto/plan-it.git
 cd backend
@@ -68,3 +68,7 @@ vercel --prod
 
 ## License
 The source code is released under MIT license.
+
+## Other notes
+Instead of the open source react-gantt used in the current project, you can integrate with a full fleged paid gantt which has various features. If you know of an open source with several features, drop an feature request and i'll have that included.
+
